@@ -1,4 +1,4 @@
-# Iphone-Sales-Insights
+# IPHONE-SALES-INSIGHTS
 Iphones Sales Analytics Project Using Python | Power BI - Data Analyst
 # Description
 This project "IPHONE SALES ANALYTICS" aims to harness the power of data analytics using Python & Power BI to analyze the iPhone sales. 
