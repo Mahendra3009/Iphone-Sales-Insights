@@ -1,2 +1,2 @@
 # Iphone-Sales-Insights
-Iphones Sales Analysis Using Python | Power BI - Data Analyst
+Iphones Sales Analytics Project Using Python | Power BI - Data Analyst
